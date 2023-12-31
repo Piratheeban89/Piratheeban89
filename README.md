@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hello, folks! I’m Piratheeban <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<!--
-**Piratheeban89/Piratheeban89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 👀 I have recently completed my Post grduate studies in Big Data Analytics.
+- 💞️ I’m looking for opportunities across data driven roles.
+- 📫 Reach me at: m.pratheep1989@gmail.com or send a message on LinkedIn (www.linkedin.com/in/pira03)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
+
